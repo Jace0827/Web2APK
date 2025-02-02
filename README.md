@@ -1,5 +1,9 @@
 # Web2Apk - Convert Your Website to an Android App
 
+## Requirements
+- **Minimum SDK:** API 21 (Lollipop)
+- **Languages Used:** Java, Kotlin
+
 ## How to Change the Website URL
 To modify the URL that the app loads, follow these steps:
 
